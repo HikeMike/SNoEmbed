@@ -1,4 +1,4 @@
 <?php
 /* Add the embed function to the Page Controller */
-Page_Controller::add_extension('SNoEmbed');
+Object::add_extension('Page_Controller','SNoEmbed');
 ?>
